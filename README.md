@@ -12,13 +12,13 @@ Demonstração do projeto online: [Clique aqui](http://cl-vuejs.epizy.com/)
 - Fortawesome
 
 ### Instalando dependências 
-``` npm install ```
+``` $ npm install ```
 
 ### Levantando server com reload em localhost:8080
-``` npm run serve ```
+``` $ npm run serve ```
 
 ### Build para produção com minificação
-``` npm run build ```
+``` $ npm run build ```
 
 ### Analisar e detectar problemas
-``` npm run lint ```
+``` $ npm run lint ```
