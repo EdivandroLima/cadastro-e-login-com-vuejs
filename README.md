@@ -1,24 +1,24 @@
-# app-cadastro-e-login
+# Cadastro e Login com Vue.js
+Projeto para estudo e prática do framework Vue.js.
 
-## Project setup
-```
-npm install
-```
+Demonstração do projeto online: [Clique aqui](http://cl-vuejs.epizy.com/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Dependências
+- VueRouter
+- Vuex
+- VueMeta
+- VueCryptojs
+- Bootstrap
+- Fortawesome
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Instalando dependências 
+``` npm install ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Levantando server com reload em localhost:8080
+``` npm run serve ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Build para produção com minificação
+``` npm run build ```
+
+### Analisar e detectar problemas
+``` npm run lint ```
