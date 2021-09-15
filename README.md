@@ -1,7 +1,7 @@
 # Cadastro e Login com Vue.js
 Projeto para estudo e prática do framework Vue.js.
 
-Demonstração do projeto online: [Clique aqui](http://cl-vuejs.epizy.com/)
+Demonstração do projeto online: [Clique aqui](http://cl-vuejs2.epizy.com/)
 
 ## Dependências
 - VueRouter
